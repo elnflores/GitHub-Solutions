@@ -32,7 +32,6 @@ class Solution {
                 sum = sum.next;
             }
         }
-        sum = null;
         return ret;
     }
 }
