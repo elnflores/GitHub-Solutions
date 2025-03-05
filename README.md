@@ -39,3 +39,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/elnflores/GitHub-Solutions/tree/master/0169-majority-element) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
