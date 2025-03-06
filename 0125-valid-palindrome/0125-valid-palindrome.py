@@ -1,22 +1,18 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        st = ""
+        cleaned_string = ""
         for char in s:
-            if char not in string.punctuation and char != ' ':
-                st += char.lower()
-        
-        if len(st) % 2 == 0:
-            b = len(st) // 2
-            a = b - 1 
-        else:
-            a = len(st) // 2 - 1
-            b = len(st) // 2 + 1
-        
-        while (a >= 0 and b < len(st)):
-            if st[a] != st[b]:
+            if char.isalnum():
+                cleaned_string += char.lower()
+
+        beg = 0
+        end = len(cleaned_string) - 1
+
+        while (beg != end and beg < end):
+            if cleaned_string[beg] != cleaned_string[end]:
                 return False
-            a-=1
-            b +=1
+            beg += 1
+            end -= 1
         return True
 
 
