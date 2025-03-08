@@ -51,6 +51,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/elnflores/GitHub-Solutions/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
+| [3207-make-three-strings-equal](https://github.com/elnflores/GitHub-Solutions/tree/master/3207-make-three-strings-equal) |
 ## Array
 |  |
 | ------- |
