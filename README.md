@@ -49,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/elnflores/GitHub-Solutions/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
