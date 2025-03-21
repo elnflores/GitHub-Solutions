@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
+| [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
