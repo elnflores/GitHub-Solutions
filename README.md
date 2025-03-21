@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
 | [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
 ## Dynamic Programming
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
