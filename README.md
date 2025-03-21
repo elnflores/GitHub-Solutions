@@ -46,6 +46,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/elnflores/GitHub-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/elnflores/GitHub-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
 ## Dynamic Programming
 |  |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/elnflores/GitHub-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
