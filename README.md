@@ -52,6 +52,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/elnflores/GitHub-Solutions/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/elnflores/GitHub-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/elnflores/GitHub-Solutions/tree/master/1250-longest-common-subsequence) |
 | [3207-make-three-strings-equal](https://github.com/elnflores/GitHub-Solutions/tree/master/3207-make-three-strings-equal) |
 ## Array
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/elnflores/GitHub-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
