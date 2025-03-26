@@ -52,6 +52,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/elnflores/GitHub-Solutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/elnflores/GitHub-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/elnflores/GitHub-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/elnflores/GitHub-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/elnflores/GitHub-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
 ## Dynamic Programming
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +101,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/elnflores/GitHub-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
