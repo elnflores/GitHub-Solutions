@@ -7,6 +7,3 @@ class Solution:
             else:
                 result.pop()
         return "".join(result)
-
-
-            
