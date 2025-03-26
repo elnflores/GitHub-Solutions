@@ -6,8 +6,7 @@ class Solution:
                 result.append(ch)
             else:
                 if result[len(result)-1] == ch:
-                    while len(result)>0 and result[len(result)-1] == ch:
-                        result.pop()
+                    result.pop()
                 else:
                     result.append(ch)
         return "".join(result)
