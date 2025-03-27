@@ -56,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/elnflores/GitHub-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/elnflores/GitHub-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1542-consecutive-characters](https://github.com/elnflores/GitHub-Solutions/tree/master/1542-consecutive-characters) |
 | [3207-make-three-strings-equal](https://github.com/elnflores/GitHub-Solutions/tree/master/3207-make-three-strings-equal) |
 ## Array
 |  |
