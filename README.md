@@ -58,6 +58,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/elnflores/GitHub-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/elnflores/GitHub-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/elnflores/GitHub-Solutions/tree/master/1542-consecutive-characters) |
+| [1666-make-the-string-great](https://github.com/elnflores/GitHub-Solutions/tree/master/1666-make-the-string-great) |
 | [3207-make-three-strings-equal](https://github.com/elnflores/GitHub-Solutions/tree/master/3207-make-three-strings-equal) |
 ## Array
 |  |
@@ -79,6 +80,7 @@
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/elnflores/GitHub-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/elnflores/GitHub-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/elnflores/GitHub-Solutions/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
