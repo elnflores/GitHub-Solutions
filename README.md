@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/elnflores/GitHub-Solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/elnflores/GitHub-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/elnflores/GitHub-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/elnflores/GitHub-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/elnflores/GitHub-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
