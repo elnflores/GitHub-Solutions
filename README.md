@@ -56,6 +56,7 @@
 | [0020-valid-parentheses](https://github.com/elnflores/GitHub-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/elnflores/GitHub-Solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/elnflores/GitHub-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/elnflores/GitHub-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/elnflores/GitHub-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/elnflores/GitHub-Solutions/tree/master/1542-consecutive-characters) |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/elnflores/GitHub-Solutions/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/elnflores/GitHub-Solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
