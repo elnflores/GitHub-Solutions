@@ -61,6 +61,7 @@
 | [1250-longest-common-subsequence](https://github.com/elnflores/GitHub-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/elnflores/GitHub-Solutions/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/elnflores/GitHub-Solutions/tree/master/1666-make-the-string-great) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/elnflores/GitHub-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3207-make-three-strings-equal](https://github.com/elnflores/GitHub-Solutions/tree/master/3207-make-three-strings-equal) |
 ## Array
 |  |
@@ -70,6 +71,7 @@
 | [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/elnflores/GitHub-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/elnflores/GitHub-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/elnflores/GitHub-Solutions/tree/master/0141-linked-list-cycle) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/elnflores/GitHub-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,4 +133,8 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/elnflores/GitHub-Solutions/tree/master/0168-excel-sheet-column-title) |
+## Counting
+|  |
+| ------- |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/elnflores/GitHub-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 <!---LeetCode Topics End-->
