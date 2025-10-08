@@ -3,7 +3,7 @@ class Solution:
         for i in range(0, x + 1):
             if i * i < x:
                 continue
-            elif i * i == x:
+            if i * i == x:
                 return i
             else:
                 return i - 1
