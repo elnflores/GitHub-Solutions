@@ -103,6 +103,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/elnflores/GitHub-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/elnflores/GitHub-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
@@ -132,6 +133,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/elnflores/GitHub-Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/elnflores/GitHub-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Counting
 |  |
