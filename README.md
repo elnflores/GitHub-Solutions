@@ -71,6 +71,7 @@
 | [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/elnflores/GitHub-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/elnflores/GitHub-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/elnflores/GitHub-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/elnflores/GitHub-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/elnflores/GitHub-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
