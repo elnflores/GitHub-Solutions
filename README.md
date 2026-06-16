@@ -71,6 +71,7 @@
 | [0001-two-sum](https://github.com/elnflores/GitHub-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/elnflores/GitHub-Solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/elnflores/GitHub-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/elnflores/GitHub-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/elnflores/GitHub-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1127-last-stone-weight](https://github.com/elnflores/GitHub-Solutions/tree/master/1127-last-stone-weight) |
@@ -136,6 +137,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/elnflores/GitHub-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/elnflores/GitHub-Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/elnflores/GitHub-Solutions/tree/master/0168-excel-sheet-column-title) |
 ## Counting
