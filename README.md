@@ -86,6 +86,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/elnflores/GitHub-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/elnflores/GitHub-Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/elnflores/GitHub-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/elnflores/GitHub-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/elnflores/GitHub-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/elnflores/GitHub-Solutions/tree/master/1666-make-the-string-great) |
@@ -152,4 +153,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/elnflores/GitHub-Solutions/tree/master/0136-single-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/elnflores/GitHub-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/elnflores/GitHub-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/elnflores/GitHub-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
